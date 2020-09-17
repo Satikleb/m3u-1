@@ -25,6 +25,32 @@ https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
 #EXTINF:0,Rotana Drama HD
 https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:0,Al Jadeed
+https://p-mysat-live.ercdn.net/aljadeed/aljadeed.m3u8
+#EXTINF:0,Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:0,Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:0,LBC
+https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
+#EXTINF:0,LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:0,LBC International
+https://mysat-live.ercdn.net/lbcinternational/lbcinternational.m3u8
+#EXTINF:0,LBC International
+https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
+#EXTINF:0,MTV
+https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon.m3u8
+#EXTINF:0,MTV HD
+https://mysat-live.ercdn.net/mtvhd/mtvhd.m3u8
+#EXTINF:0,OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:3600,Aghani Aghani
+https://mysat-live.ercdn.net/aghanitv/aghanitv.m3u8
+#EXTINF:0,Arabica Music
+https://mysat-live.ercdn.net/arabicatv/arabicatv.m3u8
 
 
 
